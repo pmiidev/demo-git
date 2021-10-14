@@ -1,1 +1,2 @@
-ini file git saya
+ini file git saya 
+bekerja dengan git sangat menyenagkan dan mudah
